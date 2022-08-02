@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @migoox
 - 👀 I’m interested in gamedev.
-- 🌱 I’m currently learning advanced C++.
+- 🌱 I’m currently learning advanced C++ and OpenGL.
 
 <!---
 migoox/migoox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
