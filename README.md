@@ -1,9 +1,5 @@
 # Who am I
 
-- 👋 Hi, I’m @migoox
-- 👀 I’m interested in gamedev.
-- 🌱 I’m currently learning advanced C++ and OpenGL.
-
 ## Interests
 
 ## Background
