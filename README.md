@@ -1,10 +1,11 @@
-# Who am I
+# About me
+I am 4th semester student of Computer Science and Information Systems on Faculty of Mathematics and Information Science at Warsaw University of Technology.
 
-## Interests
+I am interested in game development and computer graphics programming.
 
-## Background
+I feel comfortable using C/C++, C# and Python. Looking forward to learn Rust Programming Language.
 
-<!---
-migoox/migoox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently looking for an internship.
+## Contact 
+- micokoku@gmail.com
+
