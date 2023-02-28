@@ -3,7 +3,7 @@ I am 4th semester student of Computer Science and Information Systems on Faculty
 
 I am interested in Game Development and Computer Graphics programming.
 
-I feel comfortable using C/C++, C# and Python. Looking forward to learn Rust Programming Language.
+I feel comfortable using C/C++, C# and Python. I am looking forward to learn Rust Programming Language.
 
 Currently looking for an internship.
 ## Contact 
