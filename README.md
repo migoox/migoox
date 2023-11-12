@@ -1,5 +1,5 @@
 # About me
-I am 4th semester student of Computer Science and Information Systems on Faculty of Mathematics and Information Science at Warsaw University of Technology.
+I am 5th semester student of Computer Science and Information Systems on Faculty of Mathematics and Information Science at Warsaw University of Technology.
 
 I am interested in Operating systems, Game Development and Computer Graphics programming.
 
